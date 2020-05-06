@@ -17,11 +17,11 @@
 
 * [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1385)
 
-* [npm包](https://www.npmjs.com/package/hm-row-video-card)
+* [npm包](https://www.npmjs.com/package/hm-uniapp-row-video-card)
 
-* [github地址](https://github.com/haomo-studio/hm-row-video-card)
+* [github地址](https://github.com/haomo-studio/hm-uniapp-row-video-card)
 
-* [gitee地址](https://gitee.com/haomo/hm-row-video-card)
+* [gitee地址](https://gitee.com/haomo/hm-uniapp-row-video-card)
 
 毫末科技将长期迭代本组件。需要技术支持，请进钉钉群：
 
